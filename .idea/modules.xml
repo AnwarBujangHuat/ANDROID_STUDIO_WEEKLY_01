@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ANDROID_STUDIO_WEEKLY_01_BOTTOMNAV.iml" filepath="$PROJECT_DIR$/.idea/modules/ANDROID_STUDIO_WEEKLY_01_BOTTOMNAV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ANDROID_STUDIO_WEEKLY_01_BOTTOMNAV.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ANDROID_STUDIO_WEEKLY_01_BOTTOMNAV.app.iml" />
+    </modules>
+  </component>
+</project>
